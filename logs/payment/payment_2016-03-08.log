@@ -1,0 +1,3 @@
+15:59:01 : [{"pay_date":"2016-03-08 15:58:32","pay_account":"MYTEST1","pay_amount":0.1,"pay_gold":100,"server_id":1,"pay_orderid":"order28","pay_count":1,"pfrom_id":"1"}]
+15:59:01 : [{"pay_date":"2016-03-08 15:58:29","pay_account":"MYTEST1","pay_amount":0.1,"pay_gold":100,"server_id":1,"pay_orderid":"order27","pay_count":1,"pfrom_id":"1"}]
+15:59:23 : [{"pay_date":"2016-03-08 15:59:23","pay_account":"MYTEST1","pay_amount":0.1,"pay_gold":100,"server_id":1,"pay_orderid":"order29","pay_count":1,"pfrom_id":"1"}]

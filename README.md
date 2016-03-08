@@ -100,4 +100,3 @@
 
 如果你需要写自己的代码逻辑，你也可以到src/Plugin目录下，实现一个[PluginBase.php](https://github.com/vzina/cronv2.0/blob/master/src/Plugin/PluginBase.class.php)接口的类.
 在其中写自己的逻辑代码。
-
